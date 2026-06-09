@@ -13,10 +13,10 @@ This project documents hands-on lab work with the Universal Robots UR5 collabora
 
 ## Table of Contents
 
-- [Lab 1 – Introduction & Programming Environments](#lab-1)
-- [Lab 2 – Gripper Control & Repeatability](#lab-2)
-- [Lab 3 – Gripper Tasks & Pick-and-Place](#lab-3)
-- [Lab 4 – Flashlight Assembly](#lab-4)
+- [Introduction & Programming Environments](#lab-1)
+- [Gripper Control & Repeatability](#lab-2)
+- [Gripper Tasks & Pick-and-Place](#lab-3)
+- [Flashlight Assembly](#lab-4)
 - [UR5 Specifications](#ur5-specifications)
 - [Programming Environments Comparison](#programming-environments-comparison)
 
