@@ -22,9 +22,7 @@ This project documents hands-on lab work with the Universal Robots UR5 collabora
 
 ---
 
-## Lab 1
-
-### Objective
+## Objective
 Become familiar with the UR5 robot and operate it using Polyscope, RoboDK, and URScript. Final task: trace the 8 vertices of a virtual cube using linear motion commands.
 
 ### Task 1 – Waypoints in PolyScope
